@@ -1,7 +1,7 @@
 <!-- <img src="./pic.jpg" alt="Saimum Islam"> -->
 <!-- Title / Typing animation -->
 <div align="center">
-  <h1>Hi 👋, Rifat Chowdhury Sabuj </h1>
+  <h1>Hi 👋,I am Rifat Chowdhury Sabuj </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;JavaScript+,+React+Enthusiast;Passionate+About+NLP" alt="Typing SVG" />
   </a>
