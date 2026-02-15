@@ -13,7 +13,7 @@
 Email Me 👉 ✉️ **rifat9461@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:**Blood Bank Management System
-- 🌱 **I’m currently learning:** Web Developing
+- 🌱 **I’m currently learning:** Web Developing From Programming Hero bY jhnkar Mahbub
 - 👯 **I’m looking to collaborate on:** Blood Bank Management System
 - 🤔 **I’m looking for help with:**Blood Bank Management System
 - 💬 **Ask me about:** Collaboration, Tech Support
