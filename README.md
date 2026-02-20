@@ -50,9 +50,8 @@ Email Me 👉 ✉️ **rifat9461@gmail.com.com** For Collaboration/Project or An
 ---
 
 ### **Contributions (Animated Snake)**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rifat9874/Rifat9874/output/snake.svg" width="700"/>
-</p>
+![Snake animation](https://github.com/Rifat9874/Rifat9874/blob/output/github-contribution-grid-snake.svg)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rifat9874&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
