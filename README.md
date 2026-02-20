@@ -51,7 +51,7 @@ Email Me 👉 ✉️ **rifat9461@gmail.com.com** For Collaboration/Project or An
 
 ### **Contributions (Animated Snake)**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaimumAoyon1134/SaimumAoyon1134/output/snake.svg" alt="Snake Animation" width="700"/>
+  <img src="https://raw.githubusercontent.com/Rifat9874/Rifat9874/output/snake.svg" width="700"/>
 </p>
 
 # 📊 GitHub Stats:
