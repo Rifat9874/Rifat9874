@@ -27,10 +27,10 @@ Email Me 👉 ✉️ **rifat9461@gmail.com.com** For Collaboration/Project or An
 ## 🛠️ Technology Stack
 
 ### **Languages**
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,py)]
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,py)
 
 ### **CSS Frameworks & Libraries**
-[![CSS Frameworks](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/SaimumAoyon1134)
+[![CSS Frameworks](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/Rifat9874)
 
 ### **JS Frameworks & Libraries**
 [![JS Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs)](https://github.com/SaimumAoyon1134)
