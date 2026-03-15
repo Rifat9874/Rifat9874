@@ -27,26 +27,25 @@ Email Me 👉 ✉️ **rifat9461@gmail.com.com** For Collaboration/Project or An
 ## 🛠️ Technology Stack
 
 ### **Languages**
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,py)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,py)](https://github.com/Rifat9874)
 
 ### **CSS Frameworks & Libraries**
 [![CSS Frameworks](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/Rifat9874)
 
 ### **JS Frameworks & Libraries**
-[![JS Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs)](https://github.com/SaimumAoyon1134)
+[![JS Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs)](https://github.com/Rifat9874)
 
 ### **Databases & Models**
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://github.com/SaimumAoyon1134)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://github.com/Rifat9874)
 
 ### **Deployment Platforms**
-[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,aws)](https://github.com/SaimumAoyon1134)
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,aws)](https://github.com/Rifat9874)
 
 ### **Design & Graphics**
-[![Design](https://skillicons.dev/icons?i=figma,ai,canva)](https://github.com/SaimumAoyon1134)
+[![Design](https://skillicons.dev/icons?i=figma,ai,canva)](https://github.com/Rifat9874)
 
 ### **Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows,macos)](https://github.com/SaimumAoyon1134)
-
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows,macos)](https://github.com/Rifat9874)
 ---
 
 ### **Contributions (Animated Snake)**
